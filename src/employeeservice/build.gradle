@@ -28,7 +28,7 @@ dependencies {
 	implementation 'net.logstash.logback:logstash-logback-encoder:5.2'
 
 	// https://mvnrepository.com/artifact/io.micrometer/micrometer-core
-	implementation 'io.micrometer:micrometer-core:1.10.3'
+	implementation 'io.micrometer:micrometer-core:latest'
 
 }
 
